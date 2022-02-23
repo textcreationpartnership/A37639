@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The articles or charge exhibited in Parliament against Sir Francis Windebanck, secretary of the state to His Majesty whereunto is annexed the letter that he sent to the right honourable the Lord Chamberlaine from Callis, Ian. 11, 1640.</title>
+            <author>Windebank, Francis, Sir, 1582-1646, defendant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37639</idno>
+            <idno type="STC">Wing E1235</idno>
+            <idno type="STC">ESTC R22977</idno>
+            <idno type="EEBO-CITATION">12746467</idno>
+            <idno type="OCLC">ocm 12746467</idno>
+            <idno type="VID">93266</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93266)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 253:E156, no 17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The articles or charge exhibited in Parliament against Sir Francis Windebanck, secretary of the state to His Majesty whereunto is annexed the letter that he sent to the right honourable the Lord Chamberlaine from Callis, Ian. 11, 1640.</title>
+                  <author>Windebank, Francis, Sir, 1582-1646, defendant.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials (Political crimes and offenses) --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93266:1" rendition="simple:additions"/>
+            <p>THE ARTICLES OR CHARGE EXHIBITED IN PARLIAMENT AGAINST Sir <hi>Francis Windebanck,</hi> Secretary of State to his Majeſty, Whereunto is annexed The Letter that he ſent to the Right Honourable the Lord Chamberlaine, from <hi>Callis, Ian:</hi> 11. 1640.</p>
+            <p>Printed <hi>Anno Dom.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list">
+            <pb facs="tcp:93266:2"/>
+            <pb n="1" facs="tcp:93266:2"/>
+            <head>ARTICLES OF THE HOVSE OF Commons in <hi>Parliament</hi> againſt Secretary WINDEBANKE.</head>
+            <p>INprimis, <hi>Seventy foure Letters of grace to Re<g ref="char:EOLhyphen"/>cuſants, within this foure yeares, ſignified with Secretary</hi> Windebankes <hi>owne hand.</hi>
+            </p>
+            <list>
+               <item>2. <hi>Sixty foure Prieſts in the</hi> Gate-houſe, <hi>within this foure yeares diſcharged, for the moſt part, by Secretary</hi> Windebanke.</item>
+               <item>3. <hi>Twenty nine, diſcharged by a verball Warrant of Secretary</hi> Windebankes.</item>
+               <item>4. <hi>A Warrant to protect one</hi> Muffon, <hi>a condemned Prieſt, and all the houſes hee frequented.</hi>
+               </item>
+               <item>5. <hi>One committed by the Kings owne hand, and diſ<g ref="char:EOLhyphen"/>charged by Secretary</hi> Windebanke, <hi>without ſig<g ref="char:EOLhyphen"/>nification of the Kings pleaſure therein.</hi>
+               </item>
+               <item>6. <hi>A Petition of</hi> St. Giles <hi>in the Fields, neere</hi> London, <hi>to the King, of the increaſe of Popery in their Pariſh, wherein Twenty one perſons was ſe<g ref="char:EOLhyphen"/>duced and turned by two Prieſts, the which Prieſts was both diſcharged by Secretary</hi> Windebanke.</item>
+            </list>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:93266:3"/>
+            <head>Secretary <hi>Windebancks</hi> Letter to my Lord Chamberlaine, from <hi>Callis, Ian.</hi> 11.</head>
+            <p>MY Lord, I owe my ſelfe to your Lord<g ref="char:EOLhyphen"/>ſhip, for your late favours; and therfore much more the account of my ſelfe, though <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> debt in either reſpect be of little con<g ref="char:EOLhyphen"/>ſideration, and the calling of both may be of grea<g ref="char:EOLhyphen"/>ter advantage to you, then to continue the Oblig<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion.</p>
+            <p>This account had bin preſented to your Lp. <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my firſt arrivall here with my firſt diſpatches, but I was ſo mortified with my hazardous paſſage in an open ſhallop, and ſo perplext with the thoughts of miſeries, into which I ſind my ſelfe plunged, and beſides, the departure of the meſſenger that carried thoſe letters, was ſo ſuddaine, that it was not poſ<g ref="char:EOLhyphen"/>ſible to performe this duty to your Lordſhip ſoo<g ref="char:EOLhyphen"/>ner; <hi>for the which I doe moſt humbly crave pardon.</hi> your Lordſhip may now pleaſe to accept the ex<g ref="char:EOLhyphen"/>preſſions from the ſaddeſt and moſt wounded ſoule in the whole World, who am a ſpectacle of miſe<g ref="char:EOLhyphen"/>ry in my ſelfe, in my diſtreſſed Wife and children, and in my whole fortunes, who have left the atten<g ref="char:EOLhyphen"/>ding of my Soveraigne and Maſter, and acceſſe to the beſt Prince in the world, who am become a ſcorne and by-word to all the world, both at home and abroad, a wanderer, and exile from mine owne
+<pb n="3" facs="tcp:93266:3"/>Countrey, now in the declination of my yeares, and likely to end my dayes in a remote Countrey, and far from the comfort of all my friends. <hi>What I am guilty off, none knowes ſo well as his Majeſty, whom I haue ſerved faithfully, diligently, painfully, and with as true and loyall an heart, according to my poore abi<g ref="char:EOLhyphen"/>lities, as any other whatſoever,</hi> and if I found my Conſcience charged with any crime of baſeneſſe, corruption, infidelity, or any thing elſe unworthy of a Gentleman, I ſhould not venture to addreſſe theſe Complaints to your Lordſhip, or to any o<g ref="char:EOLhyphen"/>ther perſon of Honour, in this diſconſolate eſtate, being an object not altogether unworthy of your Lordſhips compaſſion, be it for no other reſpect, but that I have long ſerved the King and Queenes Majeſties. I doubt not but your Lordſhip, in your generoſity and goodneſſe, will have a lively ſenſe &amp; feeling of my ſufferings, and vouchſafe me ſuch re<g ref="char:EOLhyphen"/>liefe as in your Honour you may; and if my ſelfe, who by courſe of Nature cannot be now of long continuance, be not conſiderable, J moſt humbly beſeech your Lordſhip to have pitty upon my poore innocent wife, and children, that they receive ſuch comfort and aſſiſtance from you in my ab<g ref="char:EOLhyphen"/>ſence, that they may be preſerved from periſhing. And to that end J moſt humbly crave your Lord<g ref="char:EOLhyphen"/>ſhips favour to this <hi>Bearer</hi> my Sonne, and to give him the Honour of acceſſe whenſoever hee ſhall make his addreſſes to you, wherein you ſhall doe a worke of ſingular charity; And becauſe there is an opinion in the world, that J have much impro<g ref="char:EOLhyphen"/>ved my fortunes by the <hi>Roman</hi> party; And there hath beene ſome deſigne by my miniſtery to intro<g ref="char:EOLhyphen"/>duce
+<pb n="4" facs="tcp:93266:4"/>Popery into <hi>England,</hi> I ſhall moſt humbly crave your Lordſhips patience in giving me leave to cleere thoſe two great miſunderſtandings, which if they were true, were ſufficient to render mee un<g ref="char:EOLhyphen"/>capable of his Majeſties favours, or of the com<g ref="char:EOLhyphen"/>paſſion of any perſon of honour whatſoever; For the firſt, it is notorious to all the world that ha<g ref="char:EOLhyphen"/>ving now ſerved his Majeſty in the place of a Se<g ref="char:EOLhyphen"/>cretary above eight yeares, I have not added one foot of Land to the inheritance left me by my Fa<g ref="char:EOLhyphen"/>ther, which in Land and Leaſe was not above 500 pounds <hi>per annum,</hi> a poore and inconſiderable e<g ref="char:EOLhyphen"/>ſtate for a Secretary, and ſuch an one as moſt Se<g ref="char:EOLhyphen"/>cretaries have more then trebled in a ſhort time; for my manner of living, it hath been much under the dignity of a Secretary, and if I had not beene very frugall, J could not have ſubſiſted; where then this concealed maſſe of Treaſure is (I wiſh thoſe that ſpeake ſo liberally of it) would let me know; for I doe proteſt to God I am utterly to ſeeke where to diſcover it, and at this preſent, I am ſo unfurniſhed with monies, that if his Majeſtie cauſe me not to be ſupplyed, I am unable to ſubſiſt in theſe parts without expoſing my family in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to the danger of ſtarving, and yet neither my purpoſe nor inclination is to live otherwiſe heere, then in the greateſt obſcurity and cloſeneſſe that poſſible I may; I aſſure your Lordſhip that thoſe of the <hi>Roman</hi> party that paſſed my hands by his Majeſties commandment, were poore diſtreſſed creatures, and farre from being able to inrich me, and beſides how little I have attended my owne private, and how freely and like a Gentleman I
+<pb n="5" facs="tcp:93266:4"/>hope I may ſpeake the truth without oſtentation I have done curteſies to all, I wiſh it ſhould rather appeare by the teſtimony of ſuch as have made uſe of my ſervices, then by mine owne. My Father and J, haved ſerved the Crowne of <hi>England</hi> neare 80. yeares together, in which time, if a greater e<g ref="char:EOLhyphen"/>ſtate had beene raiſed it might well have beene ju<g ref="char:EOLhyphen"/>ſtified, conſidering the great imployments neere the perſons of Queene <hi>Elizabeth,</hi> King <hi>Iames,</hi> and his Majeſty that now is, wee both have had; and your Lordſhip may beleeve it (for J avow it upon the faith of a Chriſtian) that it is no more then I have above-mentioned, and whether there are not many from leſſe imployments have riſen to bee Noble-men, and made their fortunes accordingly, J leave to the world to judge.</p>
+            <p>For the other ſuſpition of my being a favourer or an aduancer of Popery, I proteſt before the Al<g ref="char:EOLhyphen"/>mighty God, &amp; as I ſhall anſwer at the laſt dread<g ref="char:EOLhyphen"/>full day, that I know no ground for the leaſt ſuſpi<g ref="char:EOLhyphen"/>tion thereof, neither am I my ſelfe, nor is any other to my knowledge guilty of the leaſt thought of any ſuch purpoſe; For my ſelf I received my <hi>Baptiſme</hi> in the Church of <hi>England,</hi> and J know nothing in the Church of <hi>Rome</hi> that can winne me from that Church wherein I was made a <hi>Chriſtian;</hi> I doe therefore hold this <hi>Church</hi> of <hi>England,</hi> not onely a true and Orthodox <hi>Church,</hi> but the moſt pure, and neere the Primitive of any in the Chriſtian world, and this J will bee ready to ſeale with my blood, whenſoever there ſhall be occaſion (with this fur<g ref="char:EOLhyphen"/>ther proteſtation) that if I did not hold it ſo, I vvould not continue in it for any vvorldly reſpects vvhatſoever.</p>
+            <pb n="6" facs="tcp:93266:5"/>
+            <p>For that which hath paſſed my hands for favour of that party, it hath bin meerly miniſterial, as his Ma<g ref="char:EOLhyphen"/>jeſty beſt knowes, and I muſt be bold to ſay, that his Majeſty hath not bin deceived by it, but hath recei<g ref="char:EOLhyphen"/>ved many greater advantages; beſides that if a <hi>Se<g ref="char:EOLhyphen"/>cretary</hi> of <hi>State</hi> ſhould not hold intelligence with the party is abſolute to diſable him for the ſervice of the ſtate, &amp; that hath bin done alwayes more or leſſe, and ſo muſt alwayes continue. Kings and their miniſters of State, have ever had, and might ever have a Latitude according to time and occaſion, &amp; cannot be ſo tyed according to ſtrickneſſe of law as others are, without perill to the government, there<g ref="char:EOLhyphen"/>fore when the Roman party were practique and buſie about the ſtate, there was reaſon to bee more ſtrick't, but now by the wiſedome of the Queen &amp; her good Officers, they are better tempered, leſſe ſe<g ref="char:EOLhyphen"/>verity hath bin uſed, it being the prerogative of the Prince to uſe moderation according to accuſation, further then this J have not had to doe with the <hi>Roman party,</hi> nor thus farre but in obedience to my Maſters commandment, which I hope ſhall not be cenſured a crime, this being my condition, I moſt humbly ſubmit it to your Lordſhips wiſdome and goodneſſe, and ſeeing there is no malignity in it, nor prejudice to the ſtate, That your Lordſhip would vouchſafe me your favour and protection, and pre<g ref="char:EOLhyphen"/>ſerve me from periſhing.</p>
+            <closer>
+               <dateline>
+                  <hi>Callis</hi> 
+                  <date>
+                     <hi>January</hi> 11. 1640.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble and faitfull, though much diſtreſſed Servant. <hi>FRAN: WINDEBANCK.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
